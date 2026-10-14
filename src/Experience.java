@@ -1,4 +1,3 @@
-package org.example;
 
 public class Experience {
     private String company;
